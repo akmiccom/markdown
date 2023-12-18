@@ -1,6 +1,6 @@
 ---
 Title : Hello world !!
-Category : Other
+Category : Blog
 Author : Makoto Yaguchi
 ---
 

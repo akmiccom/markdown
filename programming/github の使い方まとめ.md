@@ -1,3 +1,9 @@
+---
+title : github の使い方
+category : Programming
+author : Makoto Yaguchi
+---
+
 # github の使い方
 
 ## git と github の違い
