@@ -98,3 +98,40 @@ Author : Makoto Yaguchi
 ### iTalk English School
 ### ビズメイツ
 
+## オンライン英会話のメリット・デメリット
+- メリット
+    1. どこででもできる
+    2. 予習復習ができる
+    3. 添削・改善点を指摘てもらえる
+- デメリット
+    1. 8割先生が話している
+    2. 教材メインになってしまう
+
+## オンライン英会話の○○つのこつ
+
+1. 予習する
+    1. しゃべる内容を先に考えておく
+    2. 自分がインタビュアーになる
+        1. 先生の国で人気のあるスポーツは何ですか？
+        2. 先生はどのスポーツが好きですか
+        3. 日本は好きですか？
+        4. アニメは好きですか？
+        5. 
+2. わからないことは聞くために、定型文を準備しておく
+    1. What does that mean?
+    2. Can you say that again?
+    3. Can you speak slowly?
+    4. Can you rephrase that?
+    5. Does that mean ...?
+3. 新しく学んだ単語や表現を使う
+    1. I'm sorry. Please say again.
+    2. I'd like to buy ...
+    3. Unfortunately ...
+    4. Do you have time to talk to me?
+4. 自分の間違いを指摘してもらう
+    1. I can't speak English well, is it wrong?
+5. メモを取る
+    1. 始めて聞いた単語や表現をメモにとる。スマホでもいい。
+6. 復習する
+7. 同じ話を違う先生とする
+    1. ネタに困らない
