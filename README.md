@@ -1,3 +1,9 @@
+---
+Title : READEME
+Category : READEME
+Author : Makoto Yaguchi
+---
+
 # markdown
 
 ここにmarkdown の記事を書いていきます。
