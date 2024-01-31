@@ -131,3 +131,102 @@ Around this time tomorrow, I will be presenting the team's latest project to sta
 By the end of next year, I expect to complete an advanced certification course in artificial intelligence.
 
 Several years from now, I will have worked in the field of manufacturing for 30 years.
+
+
+## 自己紹介に時制を使って表現してみる
+
+Simple Past: Last year, I completed my degree in Computer Science.
+I obtained a qualification in computational mechanics.
+Past Continuous: While I was studying in university, I was also working part-time in a local cafe.
+Past Perfect: I had already gained some experience in programming before I joined my first job.
+Past Perfect Continuous: By the time I left my previous job, I had been working on various software projects for five years.
+Simple Present: I work as a software developer, and I enjoy solving complex problems.
+Present Continuous: Currently, I am working on a challenging project that involves developing a new mobile application.
+Present Perfect: I have gained valuable insights into project management over the past few years.
+Present Perfect Continuous: For the last six months, I have been collaborating with a talented team of developers on an exciting project.
+Simple Future: Next year, I will attend a specialized training program to enhance my skills.
+Future Continuous: At this time tomorrow, I will be presenting our team's latest project to the stakeholders.
+Future Perfect: By the end of next month, I will have completed the advanced certification course in Artificial Intelligence.
+Future Perfect Continuous: In a year's time, I will have been working in the field of machine learning for a decade.
+
+以下の文章を
+- Simple Past
+- Past Continuous
+- Past Perfect
+- Simple Present
+- Present Continuous
+- Present Perfect
+- Present Perfect Continuous
+- Simple Future
+- Future Continuous
+- Future Perfect
+- Future Perfect Continuous
+で書き、時制を明確にする文を加えて例文を作成してください
+
+- 私は英語の勉強をする
+
+
+
+
+Simple Past: (特定の過去の時点)
+I obtained a qualification in computational mechanics.
+和訳: 私は計算力学の資格を取得しました。
+
+Past Continuous:
+I was obtaining a qualification in computational mechanics.
+和訳: 私は計算力学の資格を取得していました。
+
+Past Perfect: (ある時点より前に完了した行為)
+I had obtained a qualification in computational mechanics.
+和訳: 私は計算力学の資格を取得してきました。
+
+Simple Present:
+I obtain a qualification in computational mechanics.
+和訳: 私は計算力学の資格を取得します。
+
+Present Continuous:
+I am obtaining a qualification in computational mechanics.
+和訳: 私は計算力学の資格を取得しています。
+
+Present Perfect: (アクションの過去から現在への影響や継続を強調)
+I have obtained a qualification in computational mechanics.
+和訳: 私は計算力学の資格を取得しました。
+
+Present Perfect Continuous:
+I have been obtaining a qualification in computational mechanics.
+和訳: 私は計算力学の資格を取得し続けています。
+
+|           Tenses           | Sentense                                                                      | Japanese                                               |
+| :------------------------: | :---------------------------------------------------------------------------- | :----------------------------------------------------- |
+|        Simple Past         | I studied English for two hours yesterday.                                    | 昨日、私は英語を2時間勉強しました。                    |
+|      Past Continuous       | I was studying English until the exam started.                                | 試験が始まる前まで、私は英語を勉強していました。       |
+|        Past Perfect        | I had studied English in Japna before coming to America.                      | 私は日本に来る前に日本で英語を勉強していた。           |
+|  Past Perfect Continuous   | I had been studying English for five years.                                   | 私は5年間英語を勉強していました。                      |
+|       Simple Present       | I study English grammar every morning before work.                            | 私は毎朝仕事前に英語を勉強します。                     |
+|     Present Continuous     | I am studying English grammar now.                                            | 今、私は英語の文法を勉強しています。                   |
+|      Present Perfect       | I have studied English in Japan before coming to America.                     | 私はアメリカに来る前に日本で英語を勉強しました。       |
+| Present Perfect Continuous | I have been studying English for five years, and I still find it fascinating. | 私は5年間英語を勉強しています。                        |
+|       Simple Future        | I will study English vocabulary tomorrow.                                     | 明日、私は英語の単語を勉強します。                     |
+|     Future Continuous      | I will be studying English pronunciation at this time next week.              | 来週の今ごろ、私は英語の発音を勉強しています。         |
+|       Future Perfect       | I will have studied English for 10 years by the end of the year.              | 私は年末までに英語を10年間勉強していることになります。 |
+| Future Perfect Continuous  | I will have been studying English for 10 years by the end of the year.        | 私は年末までに英語を勉強して10年になります。           |
+
+
+
+
+
+
+|           Tenses           | Sentense                                       | Japanese                         |
+| :------------------------: | :--------------------------------------------- | :------------------------------- |
+|        Simple past         | She doesn't eat meat                           | (習慣敵に)お肉を食べない         |
+|     Present continuous     | She's not eating meat                          | お肉を残している状態             |
+|     Present continuous     | I'm eating linch. Can I call you back?         | お昼中、後でかけなおしていい？   |
+|      Past continuous       | I was eating linch when you called me.         | 電話くれたときお昼食べてたの     |
+|       Simple Future        | I'll eat my breakfast at 7.                    | 7時から食べ始める                |
+|     Future continuous      | I'll be eating my breakfast at 7.              | もう7時には食べている            |
+|      Present perfect       | Have you eaten your breakfast?                 | 朝ごはん食べた？                 |
+|        Simple past         | Did you eat your breakfast?                    | 朝ごはん食べた？                 |
+|      Present perfect       | Have you eat natto?                            | 納豆食べたことある？             |
+|        Simple past         | Did you eat natto?                             | 納豆食べた？                     |
+|      Present perfect       | Recently, I've eaten too much chocolate.       | 瞬間的に食べ過ぎたイメージ       |
+| Present perfect continuous | Recently, I've been eating too much chocolate. | チョコレートにはまってるイメージ |

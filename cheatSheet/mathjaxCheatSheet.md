@@ -58,9 +58,9 @@ MathJaxは、LaTeX、MathML、およびAsciiMath表記用のオープンソー�
 | \Omega  | $\Omega$ | \varOmega | $\varOmega$ |
 
 ## 二項演算子
-| Command |   表示   | Command |   表示   |  Command   |   表示    |
-| :-----: | :------: | :-----: | :------: | :--------: | :-------: |
-|    +    |   $+$    |  \div   |  $\div$  |  \bullet   | $\bullet$ |
+| Command |   表示   | Command |   表示   |  Command   |   表示    |  Command   |   表示    |
+| :-----: | :------: | :-----: | :------: | :--------: | :-------: | :--------: | :-------: | 
+|    +    |   $+$    |  \div   |  $\div$  |  \bullet   | $\bullet$ | \odot | $\odot$
 |    -    |   $−$    |  \ast   |  $\ast$  | \backslash |     \     |
 |   \pm   |  $\pm$   |  \star  | $\star$  |    \cap    |  $\cap$   |
 | \times  | $\times$ |  \cdot  | $\cdots$ |    \cup    |  $\cup$   |
