@@ -16,7 +16,7 @@ author : Makoto Yaguchi
 import seaborn as sns
 ```
 
-## Basic method
+## Basic method and argument
 
 ```Python
 seaborn.barplot(x=None, y=None, hue=None, data=None, order=None, hue_order=None,
@@ -25,13 +25,24 @@ seaborn.barplot(x=None, y=None, hue=None, data=None, order=None, hue_order=None,
                 errcolor='.26', errwidth=None, capsize=None, ax=None, **kwargs)
 ```
 
-```Python
-sns.scatterplot(x="Age", y="Fare", hue="Survived", data=df_1)
-```
-### 引数 (Argument)
-
 | argument |                    value |
 | :------: | -----------------------: |
 |   x, y   |         x=縦軸、y=横方向 |
 |   hue    |       各軸を分割する列名 |
 |   data   | 集計対象のデータフレーム |
+
+
+### Examples
+```Python
+# scatterplot(散布図)
+sns.scatterplot(x="Age", y="Fare", hue="Survived", data=df_1)
+# relplot(複数配置)
+sns.relplot(x="Age", y="Fare", hue="Survived", col="Pclass", row="Sex", data=df_1)
+# rugplot(軸プロット)
+sns.rugplot(x="Age", y="Fare", hue="Survived", data=df_1)
+# stripplot(1変数散布図)
+sns.stripplot(x="Pclass", y="Age", hue="Survived", data=df_1)
+# catplot(stripplotの複数配置)
+sns.catplot(x="Pclass", y="Age", hue="Survived", col="Embarked", row="Sex", data=df_1)
+
+```
